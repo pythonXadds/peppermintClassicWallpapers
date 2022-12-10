@@ -2,7 +2,7 @@ Copyright (C) 2022 Peppermint OS.
 
 # PepWallpaper
 
-## Peppermint Walpapers
+## Peppermint Wallpapers
 
 These are the Peppermint Wallpapers. Anything that you see  here can be downloaded
 via peppermint extras all Wallpapers are  maintained in this repository.
